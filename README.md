@@ -5,11 +5,11 @@ A InCicle é uma empresa de tecnologia com foco em soluções para sistemas de g
 ### Teste Backend
 
 Esse teste consiste em conhecermos um pouco o seu conhecimento na área de desenvolvimento de **apis rest**.
-Sendo assim, avaliaremos o seu domínio das linguagem Php ^8.x utilizando o framework Laravel ^12.x.
+Sendo assim, avaliaremos o seu domínio das linguagens escolhidas
 
 ### Descrição da API
 
-Desenvolver uma Api que atenda à modelagem disponibilizada abaixo(não necessário se limitar a ela), está api deve ser construida com a finalidade de gerenciar atividades de um projeto que podem ser visualizadas por membros desse projeto adicionados pelo administrador.
+Desenvolver uma Api que atenda à modelagem disponibilizada abaixo(não necessário se limitar a ela), está api deve ser construida com a finalidade de gerenciar produtos e pedidos que contenham esses produtos
 
 ### DIAGRAMA
 
